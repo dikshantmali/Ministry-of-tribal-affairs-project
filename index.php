@@ -25,7 +25,7 @@
 					<span class="icon-bar"></span>                        
 				</button>
 
-				<a class="navbar-brand" href="#"><img src="">Ministry Of Tribal Affair</a>
+				<a class="navbar-brand" href="#">Ministry Of Tribal Affair</a>
 
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
@@ -113,7 +113,7 @@
 
 								<button class="button"><span>Youth</span></button>
 							
-
+							</div>
 						</div>
 					</div>
 					<div class="col-xs-6 hidden-sm hidden-xs">
