@@ -2,12 +2,14 @@
 <html>
 <head>
 	<title>Ministry Of Tribal Affairs</title>
+	
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+	
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 	<script type="text/javascript" src="bootstrap/js/jquery.min.js"></script>
 	<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/index.js"></script>
 	
-	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
 <body style="padding-top: 96px;">	
 	<!-- Header -->
