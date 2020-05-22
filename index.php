@@ -48,37 +48,37 @@
 			<div class="row"> 
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Sports<img class="margin_from_left" src="images/soccer.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Sports</a><img class="margin_from_left" src="images/soccer.png" height="30px" width="30px">
 					</center>
 				</div>
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Painting<img class="margin_from_left" src="images/paint.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Painting</a><img class="margin_from_left" src="images/paint.png" height="30px" width="30px">
 					</center>
 				</div>
 
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Dancing<img class="margin_from_left" src="images/dancer.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Dancing</a><img class="margin_from_left" src="images/dancer.png" height="30px" width="30px">
 						
 					</center>
 				</div>
 
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Singing<img class="margin_from_left" src="images/karaoke.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Singing</a><img class="margin_from_left" src="images/karaoke.png" height="30px" width="30px"></a>
 					</center>
 				</div>
 
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Crafting<img class="margin_from_left" src="images/clay.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Crafting</a><img class="margin_from_left" src="images/clay.png" height="30px" width="30px">
 					</center>
 				</div>
 
 				<div class="col-md-2">
 					<center>
-						<a href="#" data-toggle="modal" data-target="#myModal">Services<img class="margin_from_left" src="images/call-center.png" height="30px" width="30px"></a>
+						<a href="#" data-toggle="modal" data-target="#myModal">Services</a><img class="margin_from_left" src="images/call-center.png" height="30px" width="30px">
 					</center>
 				</div>
 
