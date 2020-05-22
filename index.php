@@ -48,7 +48,7 @@
 			<div class="row"> 
 				<div class="col-md-2">
 					<center>
-						<a  data-toggle="modal" data-target="#myModal">Sports<img class="margin_from_left" src="images/soccer.png" height="30px" width="30px"></a>
+						<a href="#"  data-toggle="modal" data-target="#myModal">Sports<img class="margin_from_left" src="images/soccer.png" height="30px" width="30px"></a>
 					</center>
 				</div>
 				<div class="col-md-2">
